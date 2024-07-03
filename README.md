@@ -1,1 +1,1 @@
-# intene.artificial
+# inteligência.artificial
